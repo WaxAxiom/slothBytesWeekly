@@ -1,4 +1,5 @@
 #include "../include/nearestvowel.h"
+#include <stdio.h>
 
 int main(int argc, char const *argv[])
 {
