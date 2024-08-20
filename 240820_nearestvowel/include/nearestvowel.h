@@ -3,6 +3,6 @@
 
 #include <stdio.h>
 
-void nearest_vowel(char);
+char nearest_vowel(char);
 
 #endif
